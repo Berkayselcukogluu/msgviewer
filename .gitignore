@@ -1,0 +1,15 @@
+# Private email files
+*.msg
+*.eml
+
+# Python & build artifacts
+__pycache__/
+*.py[cod]
+build/
+*.spec
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
