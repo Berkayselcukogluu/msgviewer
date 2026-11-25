@@ -6,7 +6,6 @@ MSG Viewer is a lightweight, 100% offline desktop application for opening, readi
 
 ```bash
 git clone https://github.com/Berkayselcukogluu/msg-viewer.git
-cd msg-viewer
 ```
 
 ## Installation
